@@ -1,0 +1,31 @@
+S -> K
+K -> I M ( )
+K -> B
+I -> int
+M -> main
+B -> begin
+K -> I V ;
+V -> N , A , G
+N -> n1 , n2
+A -> i
+G -> gcd
+K -> F ( C )
+C -> E R E
+E -> n1
+E -> n2
+E -> G
+E -> A
+F -> if
+E -> expr
+R -> ==
+R -> !=
+R -> >
+R -> <
+R -> >=
+R -> <=
+K -> G = A ;
+K -> O ( A = 1 ; C ; ++ A )
+O -> for
+K -> G = 1 ;
+K -> D
+D -> end

@@ -1,0 +1,10 @@
+int main()
+begin
+    int n1, n2, i, gcd;
+    if ( expr relop expr )
+    	gcd = i ;
+    for ( i = 1 ; expr relop expr ; ++ i )
+    begin
+        gcd = 1;       
+    end
+end
